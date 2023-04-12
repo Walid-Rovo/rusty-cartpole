@@ -19,12 +19,12 @@ cargo run
  - Multiple action senders possible via `std::sync::mpsc`
  - Multiple state readers possible via `bus::BusReader` from the [`bus` crate](https://crates.io/crates/bus)
 
-## TODOs
+<!--## TODOs
 
 - Use CasADi Sundials integrator
 - Add Model Predictive Control using OptimizationEngine
 - Implement Reinforcement Learning like outlined [in this blog](https://monadmonkey.com/bevy-dfdx-and-the-classic-cart-pole)
-
+-->
 ## License
 
 Copyright © 2023 Walid-Rovo \
